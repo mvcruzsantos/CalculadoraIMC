@@ -21,6 +21,7 @@ dúvida: é necessário ou não colocar a id imc nesse botão.  -->
 <br><br>
 <p id="resposta"></p>
 
+<p>atualização</p>
     
 </body>
 </html>
